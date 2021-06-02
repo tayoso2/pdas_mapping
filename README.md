@@ -77,10 +77,10 @@ The scripts used are on www.github.com/tayoso2/pdas_mapping.
 **Drawing, splitting, attributing, flagging lines**
 
 1. Received lines from Shuyao 
-2. ./segment_pdas_s24_assetbases_VM/Segment_PDAS_S24/Segment_PDaS_Final/Dataflow Folder/2-R Script Chunker\3 - Splitter.r
-3. ./segment_pdas_s24_assetbases_VM/Segment_PDAS_S24/Segment_S24_Final/Dataflow Folder/2-R Script Chunker\3 - Splitter.r
+2. ./segment_pdas_s24_assetbases_VM/Segment_PDAS_S24/Segment_PDaS_Final/Dataflow Folder/2-R Script Chunker/3 - Splitter.r
+3. ./segment_pdas_s24_assetbases_VM/Segment_PDAS_S24/Segment_S24_Final/Dataflow Folder/2-R Script Chunker/3 - Splitter.r
 4. ./assign-attributes/predict d_m for inferred pdas.r
 5. ./assign-attributes/predict d_m for inferred s24_no_fid.r
-6. ./flag_overlap/flag_overlap.r (responsible for the pipe id) 
+6. ./flag_overlap/flag_overlap.r
 7. ./assign-attributes/result_statistics.r
 
