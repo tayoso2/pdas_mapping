@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Settings>
+  <Setting key="Executing Version 8GB" value="3.3.2.24628 OPR-3.5.1 8GB"/>
+  <Setting key="Executing Version 16GB" value="3.3.2.24628 OPR-3.5.1 16GB"/>
+  <Setting key="Executing Version 32GB" value="3.3.2.24628 OPR-3.5.1 32GB"/>
+  <Setting key="Executing Version 64GB" value="3.3.2.24628 OPR-3.5.1 64GB"/>
+  <Setting key="Executing Version 64GB 32CPU" value="3.3.2.24628 OPR-3.5.1 64GB (32 Cores)"/>
+</Settings>
